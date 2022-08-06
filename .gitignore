@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Local Data
-assets/*.csv
+#assets/*.csv
